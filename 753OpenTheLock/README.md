@@ -1,0 +1,1 @@
+Key to solve this problem is to find surrounding elements of "0000" and then use the values to find if the elements are visited/deadends thereby incrementing depth and find if the match is made otherwise return -1
