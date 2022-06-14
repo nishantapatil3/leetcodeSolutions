@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[25]:
+
+
 def primegenerator(limit):
     total = 0
     i = 2
@@ -17,6 +20,15 @@ def isprime(num):
     return True
 
 
+# In[28]:
+
+
 sumlimit = 2000000
 primegenerator(sumlimit)
+
+
+# In[ ]:
+
+
+
 
